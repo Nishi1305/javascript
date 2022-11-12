@@ -109,6 +109,36 @@
 
 //equal to//
 
+// let a=10,b=20;
+// console.log(a==b)
+
+
+// let a=20,b=20;
+// console.log("a==b",a==b)
+// console.log("a!=b",a!=b)
+// console.log("a===b",a===b)
+// console.log("a!==b",a!==b)
+
+
+// let a=20,b="20";
+// console.log("a==b",a==b);
+// console.log("a!=b",a!=b);
+// console.log("a===b",a===b);
+// console.log("a!==b",a!==b);
+
+
+
+// let age=20;
+// (age>=18)?console.log('adult'):console.log('children');
+
+// let age=10;
+// (age>=18)?console.log('adult'):console.log('children');
+
+
+
+
+
+
 
 
 
