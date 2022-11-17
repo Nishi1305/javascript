@@ -128,7 +128,9 @@
 
 
 
-// let age=20;
+// ************************turnary operator***************************///
+
+// let age=20; 
 // (age>=18)?console.log('adult'):console.log('children');
 
 // let age=10;
@@ -138,7 +140,10 @@
 
 
 
-
+//***************logical oprerators *************************/
+// && and
+// || or
+// !! not
 
 
 
