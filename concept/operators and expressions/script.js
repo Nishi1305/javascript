@@ -130,8 +130,8 @@
 
 // ************************turnary operator***************************///
 
-// let age=20; 
-// (age>=18)?console.log('adult'):console.log('children');
+let age=20; 
+(age>=18)?console.log('adult'):console.log('children');
 
 // let age=10;
 // (age>=18)?console.log('adult'):console.log('children');
