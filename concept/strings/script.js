@@ -22,3 +22,52 @@
 
 // let strfullname="nishi"+"gupta";
 // console.log(strfullname)
+
+
+
+
+// let x="nishi";
+// let y=new String("nishi");
+// console.log(typeof y);
+// console.log(typeof x);
+
+
+// let x=`nishi`;               //templete literals
+// let y="nishi";
+// console.log(typeof y);
+// console.log(typeof x);
+
+
+
+// let text=`she's often called "nishi"`;
+// console.log(text);
+
+
+
+
+// let text=`the quick 
+// brown fox 
+// jump Over
+// the lazy dog `;
+// console.log(text);
+
+
+
+// let fname="nishi";
+// let lname="gupta"
+// console.log("my name is"+ fname+ lname )
+// console.log(`my name is ${fname} ${lname}`)
+
+
+
+
+// let a=5,b=2;
+// let product=`axb=${a*b}`;
+// console.log(product)
+
+
+
+
+
+
+
