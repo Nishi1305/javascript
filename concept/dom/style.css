@@ -1,0 +1,15 @@
+.style
+{
+    height: 100px;
+    width: 100px;
+    border: 2px solid yellow;
+    background-color: red;
+}
+
+.newStyle
+{
+    height: 100px;
+    width: 100px;
+    border: 6px dotted blue;
+    background-color: rgb(89, 85, 198);
+}
