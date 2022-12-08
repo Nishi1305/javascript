@@ -79,6 +79,8 @@
 
 
 
+let element=document.querySelector(".style")
+console.log(element.setAttribute)
 
 
 
